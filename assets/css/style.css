@@ -1,7 +1,7 @@
 
 #banner {
     width:95vw;
-    height:80vh;
+    height:70vh;
 
  }
 
@@ -19,4 +19,55 @@
 
  body {background-color: #717276;
 
+ }
+
+ #homelink {
+    color: #8E8180;
+
+ }
+
+#portfoliolink {
+    color: #8E8180;
+    
+ }
+
+ #contactlink {
+    color: #8E8180;
+    
+ }
+
+ #channels {
+    float: left;
+    color: #8E8180;
+    
+ }
+
+ a {
+    color: #8E8180;
+    font-size: 40px;
+    
+ }
+
+ li {
+     float: left;
+     clear: left;
+ }
+
+ #footercontainer {
+     clear: left;
+ }
+
+ #elevatorbio {
+    margin: auto;
+    clear: left;
+    s
+ }
+
+ #headshot {
+     float: left;
+     margin: auto;
+ }
+
+ p {
+     font-size: 20px;
  }
