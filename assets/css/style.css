@@ -1,0 +1,70 @@
+.clearfix::after {
+    overflow: auto;
+}
+
+#name {
+    float: left;
+    margin-left: 150px;
+    margin-bottom: auto;
+    margin-top: auto;
+    background-color: teal;
+    color: white;
+    padding: 20px;
+}
+
+#linkbar {
+    float: right;
+    margin-right: 150px;
+    margin-bottom: auto;
+    margin-top: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+a {
+    color: gray;
+}
+
+#background_gray {
+    float: left;
+    width: 100%;
+    margin: auto;
+    background-color: lightgray;
+
+}
+
+#lowbar {
+    float: left;
+    margin: auto;
+}
+
+#About_title {
+    color:  
+}
+
+#about_content {
+    background-color: white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 70px;
+    padding: 10px;
+}
+
+p {
+    float: left;
+
+}
+
+
+#tealline {
+    float: left;
+    width: 100%;
+    padding: 8px;
+    background-color: teal;
+}
+
+footer {
+    clear: left;
+}
